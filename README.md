@@ -1,2 +1,1 @@
-# SaratovNight-ColorScheme
-`🎨 Minimalistic color palette `
+# Saratov-Night Color Pallete
